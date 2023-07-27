@@ -1,1 +1,5 @@
-﻿
+﻿Hello.
+Everyone!
+Today im going to practice on File Io Operations.
+
+To expertise my skills
